@@ -20,7 +20,7 @@ def main():
 
     # Save output
     output_path = (
-        "data/raw/transfermarkt/team_competitions_seasons_filtered.csv"
+        "data/filtered/transfermarkt/team_competitions_seasons_filtered.csv"
     )
     filtered_df.to_csv(output_path, index=False)
 
