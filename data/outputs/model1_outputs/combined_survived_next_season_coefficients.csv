@@ -1,0 +1,10 @@
+model,target,feature,coefficient,abs_coefficient
+combined,survived_next_season,deep_diff,1.6656814997654346,1.6656814997654346
+combined,survived_next_season,position,-1.520495394932961,1.520495394932961
+combined,survived_next_season,npxgd,1.1314839408739985,1.1314839408739985
+combined,survived_next_season,xpts,1.0154830802031627,1.0154830802031627
+combined,survived_next_season,pts,0.9157169154678785,0.9157169154678785
+combined,survived_next_season,gd,0.7168863162941457,0.7168863162941457
+combined,survived_next_season,xga,-0.35968996066728925,0.35968996066728925
+combined,survived_next_season,ppda_coef,-0.2330587634895113,0.2330587634895113
+combined,survived_next_season,pts_minus_xpts,0.17444269902773465,0.17444269902773465

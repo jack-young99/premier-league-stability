@@ -1,0 +1,4 @@
+model,target,feature,coefficient,abs_coefficient
+table_only,survived_next_season,position,-1.8948797283295624,1.8948797283295624
+table_only,survived_next_season,gd,1.828415019015987,1.828415019015987
+table_only,survived_next_season,pts,1.4169121967397835,1.4169121967397835
