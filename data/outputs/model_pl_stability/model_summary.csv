@@ -1,0 +1,8 @@
+model,exclude_big_six,roc_auc,n_train,n_test,features
+table_only,True,0.8163265306122449,70,28,"pts, position, gd"
+underlying_performance,True,0.826530612244898,70,28,"npxGD, xGA, xpts, deep_diff, ppda_coef, xpts_diff"
+financial_resource,True,0.6071428571428572,70,28,"revenue_rank, wage_rank, wage_to_revenue, net_spend_to_revenue, total_spent_to_revenue"
+recruitment_efficiency,True,0.596938775510204,70,28,"wage_efficiency_npxGD, revenue_efficiency_npxGD, net_spend_efficiency_npxGD, total_spend_efficiency_npxGD"
+squad_and_manager,True,0.6275510204081632,70,28,"avg_age, age_std, young_u21_pct, veteran_o30_pct, squad_size, manager_count_season, primary_manager_tenure, manager_change_flag"
+full_model,True,0.6479591836734694,70,28,"npxGD, xGA, xpts, deep_diff, ppda_coef, revenue_rank, wage_rank, wage_to_revenue, net_spend_to_revenue, wage_efficiency_npxGD, net_spend_efficiency_npxGD, avg_age, young_u21_pct, veteran_o30_pct, manager_change_flag"
+full_model_all_clubs_sensitivity,False,0.816,100,40,"npxGD, xGA, xpts, deep_diff, ppda_coef, revenue_rank, wage_rank, wage_to_revenue, net_spend_to_revenue, wage_efficiency_npxGD, net_spend_efficiency_npxGD, avg_age, young_u21_pct, veteran_o30_pct, manager_change_flag"
