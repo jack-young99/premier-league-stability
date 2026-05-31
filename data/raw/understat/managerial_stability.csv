@@ -1,0 +1,181 @@
+team_id,team_name,understat_league,year,understat_season,manager_count_season,primary_manager_name,primary_manager_tenure,manager_change_flag,manager_data_source
+80,Chelsea,EPL,2016,2016/17,1,Antonio Conte,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+82,Tottenham,EPL,2016,2016/17,1,Mauricio Pochettino,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+88,Manchester City,EPL,2016,2016/17,1,Pep Guardiola,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+87,Liverpool,EPL,2016,2016/17,1,Jurgen Klopp,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+83,Arsenal,EPL,2016,2016/17,1,Arsene Wenger,19,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+89,Manchester United,EPL,2016,2016/17,1,Jose Mourinho,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+72,Everton,EPL,2016,2016/17,1,Ronald Koeman,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+73,Bournemouth,EPL,2016,2016/17,1,Eddie Howe,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+74,Southampton,EPL,2016,2016/17,1,Claude Puel,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+76,West Bromwich Albion,EPL,2016,2016/17,1,Tony Pulis,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+81,West Ham,EPL,2016,2016/17,1,Slaven Bilic,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+75,Leicester,EPL,2016,2016/17,2,Craig Shakespeare,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+85,Stoke,EPL,2016,2016/17,1,Mark Hughes,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+78,Crystal Palace,EPL,2016,2016/17,2,Sam Allardyce,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+84,Swansea,EPL,2016,2016/17,4,Paul Clement,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+90,Watford,EPL,2016,2016/17,1,Walter Mazzarri,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+92,Burnley,EPL,2016,2016/17,1,Sean Dyche,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+91,Hull,EPL,2016,2016/17,2,Mike Phelan,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+93,Middlesbrough,EPL,2016,2016/17,2,Aitor Karanka,2,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+77,Sunderland,EPL,2016,2016/17,1,David Moyes,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+88,Manchester City,EPL,2017,2017/18,1,Pep Guardiola,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+89,Manchester United,EPL,2017,2017/18,1,Jose Mourinho,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+82,Tottenham,EPL,2017,2017/18,1,Mauricio Pochettino,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+87,Liverpool,EPL,2017,2017/18,1,Jurgen Klopp,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+80,Chelsea,EPL,2017,2017/18,1,Antonio Conte,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+83,Arsenal,EPL,2017,2017/18,1,Arsene Wenger,20,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+92,Burnley,EPL,2017,2017/18,1,Sean Dyche,4,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+72,Everton,EPL,2017,2017/18,3,Sam Allardyce,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+75,Leicester,EPL,2017,2017/18,3,Claude Puel,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+73,Bournemouth,EPL,2017,2017/18,1,Eddie Howe,4,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+78,Crystal Palace,EPL,2017,2017/18,2,Roy Hodgson,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+86,Newcastle United,EPL,2017,2017/18,1,Rafael Benitez,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+81,West Ham,EPL,2017,2017/18,2,David Moyes,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+90,Watford,EPL,2017,2017/18,2,Marco Silva,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+220,Brighton,EPL,2017,2017/18,1,Chris Hughton,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+219,Huddersfield,EPL,2017,2017/18,1,David Wagner,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+74,Southampton,EPL,2017,2017/18,2,Mauricio Pellegrino,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+84,Swansea,EPL,2017,2017/18,3,Carlos Carvalhal,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+85,Stoke,EPL,2017,2017/18,2,Mark Hughes,4,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+76,West Bromwich Albion,EPL,2017,2017/18,3,Alan Pardew,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+88,Manchester City,EPL,2018,2018/19,1,Pep Guardiola,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+87,Liverpool,EPL,2018,2018/19,1,Jurgen Klopp,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+80,Chelsea,EPL,2018,2018/19,1,Maurizio Sarri,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+82,Tottenham,EPL,2018,2018/19,1,Mauricio Pochettino,4,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+83,Arsenal,EPL,2018,2018/19,1,Unai Emery,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+89,Manchester United,EPL,2018,2018/19,2,Ole Gunnar Solskjaer,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+229,Wolverhampton Wanderers,EPL,2018,2018/19,1,Nuno Espirito Santo,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+72,Everton,EPL,2018,2018/19,1,Marco Silva,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+75,Leicester,EPL,2018,2018/19,2,Claude Puel,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+81,West Ham,EPL,2018,2018/19,1,Manuel Pellegrini,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+90,Watford,EPL,2018,2018/19,1,Javi Gracia,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+78,Crystal Palace,EPL,2018,2018/19,1,Roy Hodgson,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+73,Bournemouth,EPL,2018,2018/19,1,Eddie Howe,5,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+86,Newcastle United,EPL,2018,2018/19,1,Rafael Benitez,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+92,Burnley,EPL,2018,2018/19,1,Sean Dyche,5,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+74,Southampton,EPL,2018,2018/19,2,Ralph Hasenhuttl,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+220,Brighton,EPL,2018,2018/19,1,Chris Hughton,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+227,Cardiff,EPL,2018,2018/19,1,Neil Warnock,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+228,Fulham,EPL,2018,2018/19,3,Claudio Ranieri,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+219,Huddersfield,EPL,2018,2018/19,2,David Wagner,2,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+87,Liverpool,EPL,2019,2019/20,1,Jurgen Klopp,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+88,Manchester City,EPL,2019,2019/20,1,Pep Guardiola,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+80,Chelsea,EPL,2019,2019/20,1,Frank Lampard,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+89,Manchester United,EPL,2019,2019/20,1,Ole Gunnar Solskjaer,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+75,Leicester,EPL,2019,2019/20,1,Brendan Rodgers,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+82,Tottenham,EPL,2019,2019/20,2,Jose Mourinho,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+229,Wolverhampton Wanderers,EPL,2019,2019/20,1,Nuno Espirito Santo,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+83,Arsenal,EPL,2019,2019/20,3,Mikel Arteta,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+92,Burnley,EPL,2019,2019/20,1,Sean Dyche,6,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+238,Sheffield United,EPL,2019,2019/20,1,Chris Wilder,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+74,Southampton,EPL,2019,2019/20,1,Ralph Hasenhuttl,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+72,Everton,EPL,2019,2019/20,3,Carlo Ancelotti,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+86,Newcastle United,EPL,2019,2019/20,1,Steve Bruce,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+78,Crystal Palace,EPL,2019,2019/20,1,Roy Hodgson,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+220,Brighton,EPL,2019,2019/20,1,Graham Potter,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+81,West Ham,EPL,2019,2019/20,2,David Moyes,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+71,Aston Villa,EPL,2019,2019/20,1,Dean Smith,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+73,Bournemouth,EPL,2019,2019/20,1,Eddie Howe,6,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+90,Watford,EPL,2019,2019/20,5,Nigel Pearson,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+79,Norwich,EPL,2019,2019/20,1,Daniel Farke,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+88,Manchester City,EPL,2020,2020/21,1,Pep Guardiola,4,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+89,Manchester United,EPL,2020,2020/21,1,Ole Gunnar Solskjaer,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+87,Liverpool,EPL,2020,2020/21,1,Jurgen Klopp,4,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+80,Chelsea,EPL,2020,2020/21,2,Frank Lampard,1,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+75,Leicester,EPL,2020,2020/21,1,Brendan Rodgers,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+81,West Ham,EPL,2020,2020/21,1,David Moyes,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+82,Tottenham,EPL,2020,2020/21,2,Jose Mourinho,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+83,Arsenal,EPL,2020,2020/21,1,Mikel Arteta,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+72,Everton,EPL,2020,2020/21,1,Carlo Ancelotti,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+245,Leeds,EPL,2020,2020/21,1,Marcelo Bielsa,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+71,Aston Villa,EPL,2020,2020/21,1,Dean Smith,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+86,Newcastle United,EPL,2020,2020/21,1,Steve Bruce,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+229,Wolverhampton Wanderers,EPL,2020,2020/21,1,Nuno Espirito Santo,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+78,Crystal Palace,EPL,2020,2020/21,1,Roy Hodgson,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+74,Southampton,EPL,2020,2020/21,1,Ralph Hasenhuttl,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+220,Brighton,EPL,2020,2020/21,1,Graham Potter,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+92,Burnley,EPL,2020,2020/21,1,Sean Dyche,7,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+228,Fulham,EPL,2020,2020/21,1,Scott Parker,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+76,West Bromwich Albion,EPL,2020,2020/21,2,Sam Allardyce,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+238,Sheffield United,EPL,2020,2020/21,2,Chris Wilder,4,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+88,Manchester City,EPL,2021,2021/22,1,Pep Guardiola,5,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+87,Liverpool,EPL,2021,2021/22,1,Jurgen Klopp,5,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+80,Chelsea,EPL,2021,2021/22,1,Thomas Tuchel,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+82,Tottenham,EPL,2021,2021/22,2,Antonio Conte,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+83,Arsenal,EPL,2021,2021/22,1,Mikel Arteta,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+89,Manchester United,EPL,2021,2021/22,3,Ralf Rangnick,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+81,West Ham,EPL,2021,2021/22,1,David Moyes,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+75,Leicester,EPL,2021,2021/22,1,Brendan Rodgers,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+220,Brighton,EPL,2021,2021/22,1,Graham Potter,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+229,Wolverhampton Wanderers,EPL,2021,2021/22,1,Bruno Lage,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+86,Newcastle United,EPL,2021,2021/22,3,Eddie Howe,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+78,Crystal Palace,EPL,2021,2021/22,1,Patrick Vieira,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+244,Brentford,EPL,2021,2021/22,1,Thomas Frank,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+71,Aston Villa,EPL,2021,2021/22,2,Steven Gerrard,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+74,Southampton,EPL,2021,2021/22,1,Ralph Hasenhuttl,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+72,Everton,EPL,2021,2021/22,3,Frank Lampard,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+245,Leeds,EPL,2021,2021/22,2,Marcelo Bielsa,3,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+92,Burnley,EPL,2021,2021/22,2,Sean Dyche,8,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+90,Watford,EPL,2021,2021/22,3,Roy Hodgson,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+79,Norwich,EPL,2021,2021/22,2,Dean Smith,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+88,Manchester City,EPL,2022,2022/23,1,Pep Guardiola,6,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+83,Arsenal,EPL,2022,2022/23,1,Mikel Arteta,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+89,Manchester United,EPL,2022,2022/23,1,Erik ten Hag,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+86,Newcastle United,EPL,2022,2022/23,1,Eddie Howe,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+87,Liverpool,EPL,2022,2022/23,1,Jurgen Klopp,6,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+220,Brighton,EPL,2022,2022/23,2,Roberto De Zerbi,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+71,Aston Villa,EPL,2022,2022/23,3,Unai Emery,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+82,Tottenham,EPL,2022,2022/23,3,Antonio Conte,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+244,Brentford,EPL,2022,2022/23,1,Thomas Frank,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+228,Fulham,EPL,2022,2022/23,1,Marco Silva,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+78,Crystal Palace,EPL,2022,2022/23,2,Patrick Vieira,1,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+80,Chelsea,EPL,2022,2022/23,3,Graham Potter,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+229,Wolverhampton Wanderers,EPL,2022,2022/23,3,Julen Lopetegui,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+81,West Ham,EPL,2022,2022/23,1,David Moyes,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+73,Bournemouth,EPL,2022,2022/23,2,Gary O'Neil,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+249,Nottingham Forest,EPL,2022,2022/23,1,Steve Cooper,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+72,Everton,EPL,2022,2022/23,2,Frank Lampard,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+75,Leicester,EPL,2022,2022/23,2,Brendan Rodgers,3,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+245,Leeds,EPL,2022,2022/23,4,Jesse Marsch,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+74,Southampton,EPL,2022,2022/23,3,Ruben Selles,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+88,Manchester City,EPL,2023,2023/24,1,Pep Guardiola,7,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+83,Arsenal,EPL,2023,2023/24,1,Mikel Arteta,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+87,Liverpool,EPL,2023,2023/24,1,Jurgen Klopp,7,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+71,Aston Villa,EPL,2023,2023/24,1,Unai Emery,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+82,Tottenham,EPL,2023,2023/24,1,Ange Postecoglou,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+80,Chelsea,EPL,2023,2023/24,1,Mauricio Pochettino,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+86,Newcastle United,EPL,2023,2023/24,1,Eddie Howe,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+89,Manchester United,EPL,2023,2023/24,1,Erik ten Hag,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+81,West Ham,EPL,2023,2023/24,1,David Moyes,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+78,Crystal Palace,EPL,2023,2023/24,3,Roy Hodgson,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+72,Everton,EPL,2023,2023/24,1,Sean Dyche,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+73,Bournemouth,EPL,2023,2023/24,1,Andoni Iraola,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+220,Brighton,EPL,2023,2023/24,1,Roberto De Zerbi,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+228,Fulham,EPL,2023,2023/24,1,Marco Silva,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+229,Wolverhampton Wanderers,EPL,2023,2023/24,1,Gary O'Neil,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+244,Brentford,EPL,2023,2023/24,1,Thomas Frank,4,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+249,Nottingham Forest,EPL,2023,2023/24,2,Nuno Espirito Santo,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+256,Luton,EPL,2023,2023/24,1,Rob Edwards,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+92,Burnley,EPL,2023,2023/24,1,Vincent Kompany,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+238,Sheffield United,EPL,2023,2023/24,2,Chris Wilder,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+87,Liverpool,EPL,2024,2024/25,1,Arne Slot,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+83,Arsenal,EPL,2024,2024/25,1,Mikel Arteta,4,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+88,Manchester City,EPL,2024,2024/25,1,Pep Guardiola,8,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+80,Chelsea,EPL,2024,2024/25,1,Enzo Maresca,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+71,Aston Villa,EPL,2024,2024/25,1,Unai Emery,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+86,Newcastle United,EPL,2024,2024/25,1,Eddie Howe,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+249,Nottingham Forest,EPL,2024,2024/25,1,Nuno Espirito Santo,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+220,Brighton,EPL,2024,2024/25,1,Fabian Hurzeler,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+73,Bournemouth,EPL,2024,2024/25,1,Andoni Iraola,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+244,Brentford,EPL,2024,2024/25,1,Thomas Frank,5,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+228,Fulham,EPL,2024,2024/25,1,Marco Silva,3,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+78,Crystal Palace,EPL,2024,2024/25,1,Oliver Glasner,0,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+72,Everton,EPL,2024,2024/25,2,Sean Dyche,1,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+81,West Ham,EPL,2024,2024/25,2,Julen Lopetegui,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+89,Manchester United,EPL,2024,2024/25,3,Ruben Amorim,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+229,Wolverhampton Wanderers,EPL,2024,2024/25,2,Vitor Pereira,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+82,Tottenham,EPL,2024,2024/25,1,Ange Postecoglou,1,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+75,Leicester,EPL,2024,2024/25,3,Ruud van Nistelrooy,0,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+285,Ipswich,EPL,2024,2024/25,1,Kieran McKenna,2,0,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
+74,Southampton,EPL,2024,2024/25,4,Russell Martin,1,1,Transfermarkt Premier League manager changes pages + club manager histories; manually normalised
