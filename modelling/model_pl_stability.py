@@ -35,10 +35,10 @@ MODEL_SPECS = {
         "gd",
     ],
     "underlying_performance": [
-        "npxGD",
-        "xGA",
+        "npxG",        
+        "npxGA",
         "xpts",
-        "deep_diff",
+        # "deep_diff",
         "ppda_coef",
         "xpts_diff",
     ],

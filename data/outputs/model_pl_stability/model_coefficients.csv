@@ -2,12 +2,11 @@ model,exclude_big_six,feature,coefficient,abs_coefficient
 table_only,True,gd,0.9460929244602455,0.9460929244602455
 table_only,True,pts,-0.38596795908091286,0.38596795908091286
 table_only,True,position,-0.34902990384929267,0.34902990384929267
-underlying_performance,True,xpts,0.7126713129821912,0.7126713129821912
-underlying_performance,True,xGA,-0.2609343253907506,0.2609343253907506
-underlying_performance,True,deep_diff,-0.24504251967765928,0.24504251967765928
-underlying_performance,True,xpts_diff,-0.23847112435697543,0.23847112435697543
-underlying_performance,True,ppda_coef,0.17480901056398235,0.17480901056398235
-underlying_performance,True,npxGD,0.08759980839180406,0.08759980839180406
+underlying_performance,True,xpts,0.684872518141059,0.684872518141059
+underlying_performance,True,xpts_diff,-0.2519151720430193,0.2519151720430193
+underlying_performance,True,ppda_coef,0.24642228133628227,0.24642228133628227
+underlying_performance,True,npxGA,-0.23521262461691667,0.23521262461691667
+underlying_performance,True,npxG,-0.023889726889016485,0.023889726889016485
 financial_resource,True,revenue_rank,-0.5478648614451057,0.5478648614451057
 financial_resource,True,wage_to_revenue,0.39330424102280825,0.39330424102280825
 financial_resource,True,total_spent_to_revenue,0.3281467796437747,0.3281467796437747

@@ -1,0 +1,7 @@
+metric,label,sustainable_median,at_risk_median,median_difference,sustainable_p25,sustainable_p75,at_risk_p25,at_risk_p75
+xG,xG,48.65,41.88,6.77,41.29,52.59,36.91,48.77
+xGA,xGA,53.54,62.42,-8.89,49.95,59.47,53.53,66.11
+npxGD,npxGD,-8.6,-18.91,10.32,-16.94,2.21,-24.71,-8.22
+oppda_coef,oppda_coef,9.56,10.0,-0.43,8.75,10.56,8.99,11.1
+wage_efficiency_npxGD,wage_efficiency_npxGD,0.0,0.0,0.0,-2.5,4.0,-4.5,3.0
+net_spend_efficiency_npxGD,net_spend_efficiency_npxGD,0.0,-4.0,4.0,-4.5,4.0,-7.5,1.0
