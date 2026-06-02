@@ -6,18 +6,18 @@ Repo housing the data/code used to investigate factors associated with sustainab
 `data/` - Contains all of the data files used in the production of the models.
 - `raw/` - Contains landing files as they were received at source.
 - `filtered/` - Contains raw files filtered on club/season.
-- `mapping` - Contains tables used to map IDs from disparate sources.
-- `master` - Contains joined data used for analysis and modelling. Contains `modelling_features`, which was the main dataset used for producing models.
-- `eda` - Any data snippets used for EDA.
-- `outputs` - Used to house model output data.
+- `mapping/` - Contains tables used to map IDs from disparate sources.
+- `master/` - Contains joined data used for analysis and modelling. Contains `modelling_features`, which was the main dataset used for producing models.
+- `eda/` - Any data snippets used for EDA.
+- `outputs/` - Used to house model output data.
 
-`eda` - Notebooks used for exploratory data analysis.
+`eda/` - Notebooks used for exploratory data analysis.
 
-`modelling` - Scripts used to run logistic regression models on the data.
+`modelling/` - Scripts used to run logistic regression models on the data.
 
-`transformations` - Scripts used for joins/feature engineering on the data.
+`transformations/` - Scripts used for joins/feature engineering on the data.
 
-`utils` - Contains functions shared across the repo.
+`utils/` - Contains functions shared across the repo.
 
 ## Package dependencies
 
